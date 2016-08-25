@@ -1,0 +1,14 @@
+{
+"dell7":[ 
+	"server1.domain.com",
+	"server2.domain.com"
+],
+"dell6":[
+        "server3.domain.com",
+	"server4.domain.com"
+],
+"hp":[
+        "server5.domain.com",
+	"server6.domain.com"
+]
+}

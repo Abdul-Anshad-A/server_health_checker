@@ -1,0 +1,10 @@
+Simple Python script to perform server health checkups !!
+
+It does:
+
+	- Reads the type of server(DELL, HP) and server ILO hostname from file testbeds.json
+	- script fetches the recent ILO logs, parses it and stores it on sqllite DB.
+	- Based on the table entries, servers health condition is determined.
+
+To Do:
+	- Add support to check storage array health checkups.
